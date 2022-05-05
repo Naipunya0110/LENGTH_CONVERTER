@@ -1,0 +1,38 @@
+.body{
+    background-color: rgb(37, 36, 36);
+}
+#header{
+    align-self: center;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+
+}
+#p{
+    text-align: center;
+    color: white;
+}
+.form{
+    color: white;
+    text-align: center;
+}
+#items{
+    text-align: center;
+    color: white;
+}
+#in_meters{
+    border: 1px solid white;
+    background-color: cadetblue;
+}
+#in_feet{
+    border: 1px solid white;
+    background-color: darkmagenta;
+}
+#in_inches{
+    border: 1px solid white;
+    background-color: indigo;
+}
+#in_yards{
+    border: 1px solid white;
+    background-color: royalblue;
+}
